@@ -1,1 +1,1 @@
-# CSCB07 - Software Design | Lab 1
+# CSCB07 - Software Design | Lab 2
